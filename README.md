@@ -22,4 +22,4 @@ This project demonstrates image classification using [CIFAR-10 Dataset](https://
 
 - **Dataset Name:** CIFAR-10
 - **Description:** 60,000 color images (50,000 training + 10,000 testing) in 10 classes.
-- **Source:** [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html
+- **Source:** [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
